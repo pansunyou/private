@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-28T08:58:48.996Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="_ZYaeyYwJkroyvxD1Avj" version="13.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-28T10:19:34.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.105 Safari/537.36" etag="3XhphrXAAug-JLMkxjad" version="13.6.5" type="github">
   <diagram id="Yy1lHZB_Bil_hXvj6CWL" name="Page-1">
     <mxGraphModel dx="1692" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -75,6 +75,15 @@
         </mxCell>
         <mxCell id="0brkee-HvgIIuJ729QaQ-21" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-200" y="135" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0brkee-HvgIIuJ729QaQ-23" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="210" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0brkee-HvgIIuJ729QaQ-24" value="maxage: 365天" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="0brkee-HvgIIuJ729QaQ-25" value="maxage: 1小时" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF3333;" vertex="1" parent="1">
+          <mxGeometry x="270" y="110" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
